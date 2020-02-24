@@ -1,0 +1,7 @@
+/Users/kteem/Documents/Projects/opus-android/build/CMakeFiles/install/local.dir
+/Users/kteem/Documents/Projects/opus-android/build/CMakeFiles/install/strip.dir
+/Users/kteem/Documents/Projects/opus-android/build/CMakeFiles/install.dir
+/Users/kteem/Documents/Projects/opus-android/build/CMakeFiles/list_install_components.dir
+/Users/kteem/Documents/Projects/opus-android/build/CMakeFiles/opus.dir
+/Users/kteem/Documents/Projects/opus-android/build/CMakeFiles/rebuild_cache.dir
+/Users/kteem/Documents/Projects/opus-android/build/CMakeFiles/edit_cache.dir
